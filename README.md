@@ -33,7 +33,7 @@ Source: [Netflix Movies and TV Shows — Kaggle](https://www.kaggle.com/datasets
 ## Project Files
 - `Netflix_bi.pbix` – Power BI dashboard
 - `dashboard.png` – Dashboard preview
-- `netflix_titles.XLSX` – Excel File
+- `netflix_titles.xlsx` – Excel File
 - `LICENCE` – MIT Licence
        
     
