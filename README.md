@@ -5,7 +5,7 @@ content ratings, release trends, and movie/TV show split  built to explore how N
 library has evolved and what content dominates the platform
 
 ## Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
+![Netflix Dashboard](dashboard.png)
 
 ## Key Insights
 - International Movies and Dramas are the top genres, together making up ~40% of total titles
@@ -29,20 +29,17 @@ Source: [Netflix Movies and TV Shows — Kaggle](https://www.kaggle.com/datasets
 - DAX for calculated measures (distinct counts, top-N filtering)
 - Power Query for data cleaning (multi-value genre column, date parsing)
 
-netflix-powerbi-dashboard/
-│
-├── README.md
-├── LICENSE
-├── Netflix_Dashboard.pbix
-├── data/
-│   └── netflix_titles.csv
-└── images/
-    └── netflix_dashboard.png
-         
+
+## Project Files
+- `Netflix_bi.pbix` – Power BI dashboard
+- `dashboard.png` – Dashboard preview
+- `netflix_titles.XLSX` – Excel File
+- `LICENCE` – MIT Licence
+       
     
 ## How to Use
 1. Clone this repo
-2. Open `Netflix_Dashboard.pbix` in Power BI Desktop
+2. Open `Netflix_bi.pbix` in Power BI Desktop
 3. Use the year slider and visuals to explore the data interactively
 
 ## Author
