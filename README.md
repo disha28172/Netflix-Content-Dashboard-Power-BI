@@ -5,7 +5,7 @@ content ratings, release trends, and movie/TV show split  built to explore how N
 library has evolved and what content dominates the platform
 
 ## Dashboard Preview
-![Netflix Dashboard](Netflix_Dashboard.png)
+![Netflix Dashboard](Netflix%20Dashboard.png)
 
 ## Key Insights
 - International Movies and Dramas are the top genres, together making up ~40% of total titles
