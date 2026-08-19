@@ -29,14 +29,15 @@ Source: [Netflix Movies and TV Shows — Kaggle](https://www.kaggle.com/datasets
 - DAX for calculated measures (distinct counts, top-N filtering)
 - Power Query for data cleaning (multi-value genre column, date parsing)
 
-##Folder
 netflix-powerbi-dashboard/
 │
 ├── README.md
-├── MIT licence
+├── LICENSE
 ├── Netflix_Dashboard.pbix
-├── netflix_titles.csv        
-├── netflix dashboard
+├── data/
+│   └── netflix_titles.csv
+└── images/
+    └── netflix_dashboard.png
          
     
 ## How to Use
