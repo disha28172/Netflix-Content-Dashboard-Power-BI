@@ -1,8 +1,8 @@
 # Netflix Content Dashboard — Power BI
 
-An interactive Power BI dashboard analyzing Netflix's content catalog — genre distribution, 
-content ratings, release trends, and movie/TV show split — built to explore how Netflix's 
-library has evolved and what content dominates the platform.
+An interactive Power BI dashboard analyzing Netflix's content catalog  genre distribution, 
+content ratings, release trends, and movie/TV show split  built to explore how Netflix's 
+library has evolved and what content dominates the platform
 
 ## Dashboard Preview
 ![Dashboard Overview](images/dashboard_overview.png)
